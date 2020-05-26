@@ -5,4 +5,4 @@ def func():
 
 map={"c": func, "d": lambda: dog.append(69)}
 
-asfjkl
+dog
